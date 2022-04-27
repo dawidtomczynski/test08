@@ -1,1 +1,4 @@
-# test08
+__Moj nowy projekt__
+
+Zależności:
+- flask
